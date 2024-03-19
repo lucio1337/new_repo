@@ -1,3 +1,1 @@
-import random 
-
-random=random.randint
+print ("Hello")
