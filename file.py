@@ -1,1 +1,3 @@
-print ("Hello world")
+import random 
+
+random=random.randint
